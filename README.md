@@ -2,6 +2,7 @@
 A Three-Tier Architecture-Based Application
 🚀 Overview
 The Grocery Management System is a three-tier application designed to streamline grocery store operations, including inventory management, sales tracking, and customer transactions. This project is still in development, with some database functionalities yet to be implemented.
+📌 This project is inspired by and learned from the Codebasics YouTube channel.
 🔗 Architecture (Three-Tier Model)
 ✔ Presentation Layer (Frontend) – User interface for managing groceries
 ✔ Business Logic Layer (Backend) – Processes data and handles application logic
@@ -20,3 +21,4 @@ The Grocery Management System is a three-tier application designed to streamline
 Want to contribute or have suggestions? Open an issue or submit a pull request!
 ⭐ Star this repo if you're interested in this project!
 📬 Contact: shahzaib.21.2004@gmail.com
+
