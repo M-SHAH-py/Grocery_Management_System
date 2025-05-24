@@ -1,6 +1,3 @@
-Here’s a clean, professional, and concise version of your README for the **Grocery Management System** project, formatted for quick readability:
-
----
 
 # 🛒 Grocery Management System
 
@@ -49,6 +46,4 @@ Open to feedback and collaboration!
 📬 Contact: **[shahzaib.21.2004@gmail.com](mailto:shahzaib.21.2004@gmail.com)**
 ⭐ Star this repo if you find it useful!
 
----
 
-Let me know if you’d like this formatted in Markdown or need a GitHub cover image suggestion.
